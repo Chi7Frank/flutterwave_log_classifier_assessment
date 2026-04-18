@@ -1,0 +1,10 @@
+# Models
+models/
+
+# Data
+data/*.csv
+
+
+# Python cache
+__pycache__/
+*.pyc
