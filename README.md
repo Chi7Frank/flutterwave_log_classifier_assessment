@@ -1,4 +1,4 @@
-# flutterwave_log_classifier_assessment
+# FLUTTERWAVE LOG CLASSIFICATION ASSESSMENT
 
 # Model Approach
 
@@ -25,4 +25,4 @@ To ensure the model learns generalized patterns rather than specific instances, 
 
 # Demo Video
 
--https://drive.google.com/file/d/1PeJaN31OKOK8d1Zfj9DG6dCgVSFc06OY/view?usp=sharing
+- https://drive.google.com/file/d/1PeJaN31OKOK8d1Zfj9DG6dCgVSFc06OY/view?usp=sharing
